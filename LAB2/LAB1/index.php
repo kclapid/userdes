@@ -11,8 +11,8 @@
 				<img src="DP.jpg">
 			</div>
 			<ul>
-				<li><a class="active" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\index.html" class="btn btn-outline-secondary">Home</a></li>
-				<li><a href="file:///C:/Users/Annie/Documents/APC/2nd%20year/1st%20sem/USERDES/LAB1/photos.html">Photos</a></li>
+				<li><a class="active" href="../index.php" class="btn btn-outline-secondary">Home</a></li>
+				<li><a href="photos.php">Photos</a></li>
 			</ul>
 		</div>
 		<div class="headline">
