@@ -111,7 +111,7 @@
 
 	<div class="col-md-3">
 		<div class="card">
-			<img class="card-img-top" src="img/DP8.jpg">
+			<img class="card-img-top" src="img/DP8.JPG">
 			<div class="card-body">
 				<h4 class="card-title">Kyla Lapid</h4>
 				<a href="#" class="btn btn-outline-secondary">See Profile</a>
