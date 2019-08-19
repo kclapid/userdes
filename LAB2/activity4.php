@@ -99,8 +99,8 @@ Summary:</p>
 
 
 <p>References:</p>
-<p>https://www.ukvending.co.uk/info/gobrik</p>
-<p>https://www.thebalancesmb.com/how-long-does-it-take-garbage-to-decompose-2878033</p>
+<p><a href="https://www.ukvending.co.uk/info/gobrik"></a></p>
+<p><a href="https://www.thebalancesmb.com/how-long-does-it-take-garbage-to-decompose-2878033"><a/></p>
 
 	
 </div>
