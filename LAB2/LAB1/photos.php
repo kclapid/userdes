@@ -6,7 +6,7 @@
 </head>
 <body>
 	<ul>
-		<li><a href="file:///C:/Users/Annie/Documents/APC/2nd%20year/1st%20sem/USERDES/LAB1/index.html">Back</a></li>
+		<li><a href="index.html">Back</a></li>
 	</ul>
 		<div class="picture">
 				<img src="collage.jpg">
