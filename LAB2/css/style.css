@@ -1,0 +1,338 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+html, body {
+	height: 100%;
+	width: 100%;
+	font-family: 'Montserrat', sans-serif;
+	background-color: #FDBAB2;
+	color: #4C143B;
+}
+
+header{
+	background-image: url(../img/img10.jpg);
+	height: 20vh;
+	background-size: cover;
+}
+
+.navbar{
+	padding: .5rem;
+	height: 10%;
+}
+
+#nav1
+{  
+    opacity: 0.8; 
+    filter:(opacity=80);       
+}
+
+.navbar-nav li {
+	padding-right: 20px;
+	margin-top: -3rem;
+}
+
+.nav-link {
+	font-size: 1.1em !important;
+}
+
+.logo {
+	width: 10%;
+	height: 10%;
+}
+
+.back {
+	color: black;
+	text-decoration: none;
+}
+
+.carousel-inner img {
+	width: 100%;
+	height: 100%;
+	margin-bottom: -15rem;
+	margin-top: -15rem;
+}
+
+.carousel-caption {
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);	
+}
+
+.carousel-caption h1 {
+	font-size: 500%;
+	text-transform: uppercase;
+	text-shadow: 1px 1px 15px #000;
+}
+
+.carousel-caption h3 {
+	font-size: 200%;
+	font-weight: 500;
+	text-shadow: 1px 1px 10px #000;
+}
+
+.btn-primary {
+	background-color: #FFFFFF;
+	border: 1px solid #FFFFFF;
+}
+
+.btn-primary:hover {
+	background-color: #4C143B;
+	border: 1px solid #563d7c;
+}
+
+.btn-outline-secondary {
+	background-color: #FFFFFF;
+	border: 1px solid black;
+}
+
+.btn-outline-secondary:hover {
+	background-color: #4C143B;
+	border: 1px solid #563d7c;
+}
+
+.padding {
+	padding-bottom: 2rem;
+}
+
+.welcome {
+	width: 75%;
+	margin: 0 auto;
+	padding-top: 2rem;
+}
+
+.welcome hr{
+	border-top: 2px solid #b4b4b4;
+	width: 95%;
+	margin-top: .3rem;
+	margin-bottom: 1rem;
+}
+
+.activities {
+	width: 100%;
+	margin-bottom: 2rem;
+	background-color: #EED6D3;
+}
+
+ul{
+	margin-top: 50px;
+	margin-left: 100px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	font-size: 1.5em;
+	color: white;
+	padding: 50px 50px;
+	border: 1px solid white;
+	transition: 0.3s ease;
+}
+
+ul li a:hover{
+	background-color: #4C143B;
+	color: white;
+}
+
+.btn-act1 {
+	
+	display: inline-block;
+	margin-left: 400px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	font-size: 1em;
+	color: white;
+	padding: 5px 40px;
+	border: 1px solid white;
+	transition: 0.3s ease;
+}
+
+.btn-act1:hover {
+	background-color: #4C143B;
+	color: white;
+}
+
+.social a {
+	font-size: 4.5rem;
+	padding: 1rem;
+}
+
+
+.card {
+	height: 100%;
+}
+
+.card-img-top {
+	height: 70%;
+}
+
+.fb-size {
+	width: 4%;
+	height: auto;
+}
+
+.ig-size {
+	width: 7%;
+	height: auto;
+}
+
+.picture img{
+	float: left;
+	width: 300px;
+	height: auto;
+	margin-top: 180px;
+	margin-left: 5px;
+}
+
+#text-font {
+	font: Muli;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 0 4px;
+}
+
+.column img {
+  margin-top: 200px;
+  vertical-align: middle;
+}
+
+.textbox {
+  position: relative; 
+  max-width: 800px; /* Maximum width */
+  margin: 0 auto; /* Center it */
+}
+
+.textbox .caption {
+  position: absolute; /* Position the background text */
+  bottom: 0; /* At the bottom. Use top:0 to append it to the top */
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  color: #f1f1f1; /* Grey text */
+  width: 99%; /* Full width */
+  padding: 20px; /* Some padding */
+}
+
+
+
+@media (max-width: 992px){
+
+}
+@media (max-width: 768px){
+	.carousel-caption {
+	top: 45%;	
+}
+
+.carousel-caption h1 {
+	font-size: 350%;
+}
+
+.carousel-caption h3 {
+	font-size: 140%;
+	font-weight: 400;
+	padding-bottom: .2rem;
+}
+
+
+
+}
+@media (max-width: 576px){
+
+}
+
+
+ /* Style the Image Used to Trigger the Modal */
+.myImg {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.myImg:hover {opacity: 0.7;}
+
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (Image) */
+.modal-content {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+}
+
+/* Caption of Modal Image (Image Text) - Same Width as the Image */
+#caption {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+}
+
+/* Add Animation - Zoom in the Modal */
+.modal-content, #caption {
+    -webkit-animation-name: zoom;
+    -webkit-animation-duration: 0.6s;
+    animation-name: zoom;
+    animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+    from {-webkit-transform:scale(0)}
+    to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+    from {transform:scale(0)}
+    to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+    position: absolute;
+    top: 50px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+    .modal-content {
+        width: 100%;
+    }
+}

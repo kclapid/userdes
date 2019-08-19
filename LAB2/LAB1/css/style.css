@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Century Gothic;
+}
+
+header{
+	background-image: url(../wallpaper2.jpg);
+	height: 30vh;
+	background-size: cover;
+}
+
+ul{
+	float: right;
+	list-style-type: none;
+	margin-top: 30px;
+}
+
+ul li{
+	display: inline-block;
+}
+
+ul li a{
+	text-decoration: none;
+	color: black;
+	padding: 5px 20px;
+	border: 1px solid black;
+	transition: 0.3s ease;
+}
+
+ul li a:hover{
+	background-color: gray;
+	color: black;
+}
+
+.picture img{
+	float: left;
+	width: 300px;
+	height: auto;
+	margin-top: 180px;
+	margin-left: 5px;
+}
+
+.title{
+	position: absolute;
+	top: 35%;
+	left: 40%;
+	transform: translate(-50%,-50%);
+}
+
+.title h1{
+	color: black;
+	font-size: 50px;
+}
+
+.paragraph{
+	position: absolute;
+	top: 100%;
+	left: 0%;
+}
+
+.headline{
+	position: absolute;
+	top: 15%;
+	left: 50%;
+	transform: translate(-50%,-50%); 
+}
+
+.headline p{
+	color: black;
+	font-size: 90px;
+	font-family: Calibri Light;
+}
+
