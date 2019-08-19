@@ -9,7 +9,7 @@
 		<li><a href="index.html">Back</a></li>
 	</ul>
 		<div class="picture">
-				<img src="collage.jpg">
+				<img src="collage.JPG">
 			</div>
 			
 </body>
