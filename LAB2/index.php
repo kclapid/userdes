@@ -17,17 +17,17 @@
 <!--Navigation-->
 <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top" id="nav1">
 <div class="container-fluid">
-	<a class="navbar-brand" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\index.html"><img class="logo" src="img/sunflower.png"></a>
+	<a class="navbar-brand" href="index.php"><img class="logo" src="img/sunflower.png"></a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item active">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\index.html" class="btn btn-outline-dark">Home</a>
+				<a href="index.php" class="btn btn-outline-dark">Home</a>
 			</li>
 			<li class="nav-item">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\LAB1\index.html" class="btn btn-outline-dark" class="btn btn-outline-dark">About</a>
+				<a href="LAB1\index.php" class="btn btn-outline-dark" class="btn btn-outline-dark">About</a>
 			</li>
 		</ul>
 	
@@ -86,9 +86,9 @@
 <div class="row text-center">
 	<div class="col-11">
 	<ul>
-		<li><a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\activities.html">Activities</a></li>
-		<li><a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\reflections.html">Reflections</a></li>
-		<li><a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\quiz.html">Quiz</a></li>
+		<li><a href="activities.php">Activities</a></li>
+		<li><a href="reflections.php">Reflections</a></li>
+		<li><a href="quiz.php">Quiz</a></li>
 	</ul>	
 	</div>
 </div>		
