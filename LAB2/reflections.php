@@ -17,23 +17,23 @@
 <header>
 <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top" id="nav1">
 <div class="container-fluid">
-	<a class="navbar-brand" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\index.html" class="btn btn-outline-secondary"><img class="logo" src="img/sunflower.png"></a>
+	<a class="navbar-brand" href="index.php" class="btn btn-outline-secondary"><img class="logo" src="img/sunflower.png"></a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item active">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\index.html" class="btn btn-outline-dark">Home</a>
+				<a href="index.php" class="btn btn-outline-dark">Home</a>
 			</li>
 			<li class="nav-item">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\LAB1\index.html" class="btn btn-outline-dark">About</a>
+				<a href="LAB1\index.php" class="btn btn-outline-dark">About</a>
 			</li>
 			<li class="nav-item">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\activities.html" class="btn btn-outline-dark">Activities</a>
+				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\quiz.html" class="btn btn-outline-dark">Quiz</a>
+				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
 			</li>
 		</ul>
 	
@@ -42,13 +42,13 @@
 </header>
 
 <ul>
-<li><a class="btn-act1" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\reflection1.html">Reflection 1</a></li>
+<li><a class="btn-act1" href="reflection1.php">Reflection 1</a></li>
 <hr>
-<li><a class="btn-act1" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\reflection2.html">Reflection 2</a></li>
+<li><a class="btn-act1" href="reflection2.php">Reflection 2</a></li>
 <hr>
-<li><a class="btn-act1" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\reflection3.html">Reflection 3</a></li>
+<li><a class="btn-act1" href="reflection3.php">Reflection 3</a></li>
 <hr>
-<li><a class="btn-act1" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\reflection4.html">Reflection 4</a></li>
+<li><a class="btn-act1" href="reflection4.php">Reflection 4</a></li>
 </ul>
 
 </body>
