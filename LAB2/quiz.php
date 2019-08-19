@@ -17,24 +17,24 @@
 <header>
 <nav class="navbar navbar-expand-sm bg-light navbar-light fixed-top" id="nav1">
 <div class="container-fluid">
-	<a class="navbar-brand" href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\index.html" class="btn btn-outline-secondary"><img class="logo" src="img/sunflower.png"></a>
+	<a class="navbar-brand" href="index.php" class="btn btn-outline-secondary"><img class="logo" src="img/sunflower.png"></a>
 	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
 		<span class="navbar-toggler-icon"></span>
 	</button>
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item active">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\index.html" class="btn btn-outline-dark">Home</a>
+				<a href="index.php" class="btn btn-outline-dark">Home</a>
 			</li>
 			<li class="nav-item">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\LAB1\index.html" class="btn btn-outline-dark">About</a>
+				<a href="LAB1\index.php" class="btn btn-outline-dark">About</a>
 			</li>
-						</li>
+					
 			<li class="nav-item">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\activities.html" class="btn btn-outline-dark">Activities</a>
+				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="C:\Users\Annie\Documents\APC\2nd year\1st sem\USERDES\LAB2\reflections.html" class="btn btn-outline-dark">Reflections</a>
+				<a href="reflections.php" class="btn btn-outline-dark">Reflections</a>
 			</li>
 		</ul>
 	
