@@ -6,7 +6,7 @@
 </head>
 <body>
 	<ul>
-		<li><a href="index.html">Back</a></li>
+		<li><a href="index.php">Back</a></li>
 	</ul>
 		<div class="picture">
 				<img src="collage.JPG">
