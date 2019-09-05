@@ -57,6 +57,10 @@
 <li><a class="btn-act1" href="activity6.php">Activity 6</a></li>
 <hr>
 <li><a class="btn-act1" href="activity7.php">Activity 7</a></li>
+<hr>
+<li><a class="btn-act1" href="activity8.php">Activity 8</a></li>
+<hr>
+<li><a class="btn-act1" href="activity9.php">Activity 9</a></li>
 </ul>
 
 
