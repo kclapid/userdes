@@ -51,6 +51,8 @@
 <li><a class="btn-act1" href="reflection4.php">Reflection 4</a></li>
 <hr>
 <li><a class="btn-act1" href="reflection5.php">Reflection 5</a></li>
+<hr>
+<li><a class="btn-act1" href="reflection6.php">Reflection 6</a></li>
 </ul>
 
 </body>
