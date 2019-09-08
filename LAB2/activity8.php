@@ -66,6 +66,7 @@ laptop.</center></p>
 <p><center>In my 3x3 layout, I used two pictures, and still it's a photo of a laptop but this time it has a coffee with it. I 
 saved this pictures a long time ago from Unsplash and I think this is the perfect time that I use it. Some of the layouts 
 are also inspired from magazines and blogsites. This activity took me a day to accomplish. </center></p>
+<hr>
 <p><center>4x4 Layout</center></p>
 <p>
 <center>
