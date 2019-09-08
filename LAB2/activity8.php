@@ -57,6 +57,15 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- Trigger the Modal -->
 <!-- 4x4 layout grid -->
+<p><center>Below you can see the 4x4 and 3x3 grid layout that I made for our activity. Some of it are inspired by what I usually
+see in the magazine, blogs, and some are just random collage thing in the internet. For the 4x4, I used two pictures.
+Actually if you could notice, only one layout has different picture, because the layout requires a portrait image.
+Anyways, I chose the picture because I really like photos of laptop, its relaxing for me. Also it's neat and
+pleasing. Its perfect for every layout. I like the plain white chair, it complements the wooden table and the white 
+laptop.</center></p>
+<p><center>In my 3x3 layout, I used two pictures, and still it's a photo of a laptop but this time it has a coffee with it. I 
+saved this pictures a long time ago from Unsplash and I think this is the perfect time that I use it. Some of the layouts 
+are also inspired from magazines and blogsites. This activity took me a day to accomplish. </center></p>
 <p><center>4x4 Layout</center></p>
 <p>
 <center>
