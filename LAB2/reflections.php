@@ -41,19 +41,19 @@
 </nav>
 </header>
 
-<ul><center>
-<li><a class="btn-act1" href="reflection1.php">Reflection 1: First Week of USERDES Class</a></li>
+<ul>
+<li><center><a class="btn-act1" href="reflection1.php">Reflection 1: First Week of USERDES Class</a></center></li>
 <hr>
-<li><a class="btn-act1" href="reflection2.php">Reflection 2: Need Finding and Paper Prototyping</a></li>
+<li><center><a class="btn-act1" href="reflection2.php">Reflection 2: Need Finding and Paper Prototyping</a></center></li>
 <hr>
-<li><a class="btn-act1" href="reflection3.php">Reflection 3: First Web Application Using Github and Heroku</a></li>
+<li><center><a class="btn-act1" href="reflection3.php">Reflection 3: First Web Application Using Github and Heroku</a></center></li>
 <hr>
-<li><a class="btn-act1" href="reflection4.php">Reflection 4: USERINYERFACE- Worst UI Practice</a></li>
+<li><center><a class="btn-act1" href="reflection4.php">Reflection 4: USERINYERFACE- Worst UI Practice</a></center></li>
 <hr>
-<li><a class="btn-act1" href="reflection5.php">Reflection 5: SOCIT Fest</a></li>
+<li><center><a class="btn-act1" href="reflection5.php">Reflection 5: SOCIT Fest</a></center></li>
 <hr>
-<li><a class="btn-act1" href="reflection6.php">Reflection 6: First Half Of USERDES</a></li>
-</center></ul>
+<li><center><a class="btn-act1" href="reflection6.php">Reflection 6: First Half Of USERDES</a></center></li>
+</ul>
 
 </body>
 </html>
