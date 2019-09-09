@@ -44,23 +44,23 @@
 </header>
 
 <ul>
-<li><a class="btn-act1" href="activity1.php">Activity 1</a></li>
+<li><a class="btn-act1" href="activity1.php">Activity 1: Self Introduction</a></li>
 <hr>
-<li><a class="btn-act1" href="activity2.php">Activity 2</a></li>
+<li><a class="btn-act1" href="activity2.php">Activity 2: My Favorite Application</a></li>
 <hr>
-<li><a class="btn-act1" href="activity3.php">Activity 3</a></li>
+<li><a class="btn-act1" href="activity3.php">Activity 3: 1000 Floor Elevator Design</a></li>
 <hr>
-<li><a class="btn-act1" href="activity4.php">Activity 4</a></li>
+<li><a class="btn-act1" href="activity4.php">Activity 4: Need Finding</a></li>
 <hr>
-<li><a class="btn-act1" href="activity5.php">Activity 5</a></li>
+<li><a class="btn-act1" href="activity5.php">Activity 5: Prototype: Registration and Login Forms</a></li>
 <hr>
-<li><a class="btn-act1" href="activity6.php">Activity 6</a></li>
+<li><a class="btn-act1" href="activity6.php">Activity 6: Personas for our Prototype</a></li>
 <hr>
-<li><a class="btn-act1" href="activity7.php">Activity 7</a></li>
+<li><a class="btn-act1" href="activity7.php">Activity 7: Information Design</a></li>
 <hr>
-<li><a class="btn-act1" href="activity8.php">Activity 8</a></li>
+<li><a class="btn-act1" href="activity8.php">Activity 8: Grid Layout Design</a></li>
 <hr>
-<li><a class="btn-act1" href="activity9.php">Activity 9</a></li>
+<li><a class="btn-act1" href="activity9.php">Activity 9: 12-Column Grid Design</a></li>
 </ul>
 
 
