@@ -41,6 +41,7 @@
 </nav>
 </header>
 
+<center>
 <ul>
 <li><a class="btn-act1" href="reflection1.php">Reflection 1: First Week of USERDES Class</a></li>
 <hr>
@@ -54,6 +55,7 @@
 <hr>
 <li><a class="btn-act1" href="reflection6.php">Reflection 6: First Half Of USERDES</a></li>
 </ul>
-
+</center>
+	
 </body>
 </html>
