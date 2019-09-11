@@ -43,6 +43,7 @@
 </nav>
 </header>
 
+<center>
 <ul>
 <li><a class="btn-act1" href="activity1.php">Activity 1: Self Introduction</a></li>
 <hr>
@@ -62,7 +63,7 @@
 <hr>
 <li><a class="btn-act1" href="activity9.php">Activity 9: 12-Column Grid Design</a></li>
 </ul>
-
+</center>
 
 </body>
 </html>
