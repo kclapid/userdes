@@ -54,7 +54,19 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- Trigger the Modal -->
 <center>
-<img class="myImg" src="img/A9.png" alt="12 column grid design" style="width:100%;max-width:500px">
+<img class="myImg" src="img/14_A9-1_LAPID.PNG" alt="4x4 layout 1" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-2_LAPID.PNG" alt="4x4 layout 2" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-3_LAPID.PNG" alt="4x4 layout 3" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-4_LAPID.PNG" alt="4x4 layout 4" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-5_LAPID.PNG" alt="4x4 layout 5" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-6_LAPID.PNG" alt="4x4 layout 6" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-7_LAPID.PNG" alt="4x4 layout 7" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-8_LAPID.PNG" alt="4x4 layout 8" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-9_LAPID.PNG" alt="4x4 layout 9" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-10_LAPID.PNG" alt="4x4 layout 10" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-11_LAPID.PNG" alt="4x4 layout 11" style="width:100%;max-width:300px;padding-bottom: 10px">
+<img class="myImg" src="img/14_A9-12_LAPID.PNG" alt="4x4 layout 12" style="width:100%;max-width:300px;padding-bottom: 10px">
+</p>
 </center>
 <!-- The Modal -->
 <div id="myModal" class="modal">
