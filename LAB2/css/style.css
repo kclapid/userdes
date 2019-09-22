@@ -178,6 +178,12 @@ ul li a:hover{
 	height: auto;
 }
 
+.in-size {
+	width: 5%;
+	height: auto;
+}
+
+
 .picture img{
 	float: left;
 	width: 300px;
