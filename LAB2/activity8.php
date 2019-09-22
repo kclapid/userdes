@@ -88,6 +88,7 @@ are also inspired from magazines and blogsites. This activity took me a day to a
 </center>
 </p>
 <!-- 4x4 pictures -->
+<hr>
 <p><center>4x4 pictures</center></p>
 <p>
 <center>
@@ -106,6 +107,7 @@ are also inspired from magazines and blogsites. This activity took me a day to a
 </center>
 </p>
 
+<hr>	
 <p><center>3x3 Layout</center></p>
 <p>
 <!-- Trigger the Modal -->
@@ -125,6 +127,7 @@ are also inspired from magazines and blogsites. This activity took me a day to a
 <img class="myImg" src="img/3a12.PNG" alt="3x3 layout 12" style="width:100%;max-width:300px;padding-bottom: 10px">
 </center>
 </p>
+<hr>
 <!-- 3x3 pictures -->
 <p><center>3x3 pictures</center></p>
 <p>
