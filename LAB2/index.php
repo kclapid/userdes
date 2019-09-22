@@ -161,6 +161,7 @@
 	<div class="col-12 social padding">
 		<a href="https://www.facebook.com/andrelyka/" target="_blank"><img class="fb-size" src="img/FB.png"></a>
 		<a href="https://www.instagram.com/kyla_lapid/" target="_blank"><img class="ig-size" src="img/IG2.png"></a>
+		<a href="https://www.linkedin.com/in/kyla-lapid-bb43b8154/" target="_blank"><img class="in-size" src="img/in.jpg"></a>
 	</div>
 </div>	
 </div>
