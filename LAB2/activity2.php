@@ -38,6 +38,9 @@
 				<a href="reflections.php" class="btn btn-outline-dark">Reflections</a>
 			</li>
 			<li class="nav-item">
+				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
+			</li>
+			<li class="nav-item">
 				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
 			</li>
 		</ul>
