@@ -35,6 +35,9 @@
 				<a href="reflections.php" class="btn btn-outline-dark">Reflections</a>
 			</li>
 			<li class="nav-item">
+				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
+			</li>
+			<li class="nav-item">
 				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
 			</li>
 		</ul>
@@ -51,6 +54,11 @@
 	<hr>
 </div>
 </div>	
+
+<p><center>Below you can see my personalized 12 grid column layout design. Unlike the previous activity, Miss Jen didn't require
+us to replace the boxes with pictures and texts. Since it is a 12 grid column, I could put more pictures in one row.
+My inspiration in making these layouts were my favorite websites.</center></p>
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- Trigger the Modal -->
 <center>
