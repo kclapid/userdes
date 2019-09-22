@@ -30,6 +30,9 @@
 				<a href="LAB1\index.php" class="btn btn-outline-dark">About</a>
 			</li>
 			<li class="nav-item">
+				<a href="reflections.php" class="btn btn-outline-dark">Reflections</a>
+			</li>
+			<li class="nav-item">
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
