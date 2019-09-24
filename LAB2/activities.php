@@ -36,7 +36,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="learnings.html" class="btn btn-outline-dark" class="btn btn-outline-dark">Learnings</a>
+				<a href="learnings.php" class="btn btn-outline-dark" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 
