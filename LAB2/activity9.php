@@ -38,7 +38,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
+				<a href="learnings.php" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 	
@@ -66,14 +66,23 @@ My inspiration in making these layouts were my favorite websites.</center></p>
 <img class="myImg" src="img/14_A9-2_LAPID.PNG" alt="12x4 layout 2" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-3_LAPID.PNG" alt="12x4 layout 3" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-4_LAPID.PNG" alt="12x4 layout 4" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+12x4 layout 1				12x4 layout 2				12x4 layout 3				12x4 layout 4
+</pre>
 <img class="myImg" src="img/14_A9-5_LAPID.PNG" alt="12x4 layout 5" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-6_LAPID.PNG" alt="12x4 layout 6" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-7_LAPID.PNG" alt="12x4 layout 7" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-8_LAPID.PNG" alt="12x4 layout 8" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+12x4 layout 5				12x4 layout 6				12x4 layout 7				12x4 layout 8
+</pre>
 <img class="myImg" src="img/14_A9-9_LAPID.PNG" alt="12x4 layout 9" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-10_LAPID.PNG" alt="12x4 layout 10" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-11_LAPID.PNG" alt="12x4 layout 11" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/14_A9-12_LAPID.PNG" alt="12x4 layout 12" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+12x4 layout 9				12x4 layout 10				12x4 layout 11				12x4 layout 12
+</pre>
 </p>
 </center>
 <!-- The Modal -->
