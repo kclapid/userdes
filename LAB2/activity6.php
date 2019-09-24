@@ -38,7 +38,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
+				<a href="learnings.php" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 	
@@ -55,10 +55,33 @@
 </div>
 </div>	
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+<p><center>These are our made up personas who will use our application. They have different characterisitcs, with different problems dealing with Ecobricks.</center></p>
+<pre>
+	
+
+</pre>
+
 <!-- Trigger the Modal -->
-<img class="myImg" src="img/A6-1.png" alt="Log In/Sign Up page" style="width:100%;max-width:300px">
-<img class="myImg" src="img/A6-2.png" alt="Choose personality" style="width:100%;max-width:300px">
-<img class="myImg" src="img/A6-3.png" alt="Registration page for Donor" style="width:100%;max-width:300px">
+<center>
+<img class="myImg" src="img/A6-1.png" alt="Abdul Khan" style="width:100%;max-width:300px">
+<p>This is Abdul Khan. He is 27 years old.
+<p>He's highest level of education is Bachelor's degree.</p>
+<p>He has facebook, instagram, twitter, linkedin, pinterest and gmail accounts. He is currently working in manufacturing industry.</p>
+<hr>
+
+<img class="myImg" src="img/A6-2.png" alt="Weiss Eidel" style="width:100%;max-width:300px">
+<p>This is Weiss Eidel. She is 20 years old.
+<p>Her highest level of education is college.</p>
+<p>She has facebook, instagram, twitter, linkedin, pinterest and gmail accounts.</p>
+<hr>
+
+<img class="myImg" src="img/A6-3.png" alt="Arthur Pentupdragon" style="width:100%;max-width:300px">
+<p>This is Arthur Pentupdragon. He is 39 years old.
+<p>He's highest level of education is Doctorate degree.</p>
+<p>He has facebook, instagram, twitter, linkedin, pinterest and gmail accounts. He is currently working in construction industry and has his own organization with 1001-5000 employees.</p>
+
+</center>
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
