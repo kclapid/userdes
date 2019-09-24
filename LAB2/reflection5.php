@@ -39,7 +39,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
+				<a href="learnings.php" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 	
@@ -78,6 +78,51 @@ like games, karaoke etc. The fun events are at night that’s why I fail to atte
 mornings or afternoon since it is our week, we should have fun and have a break from academics.
 </p>
 
+<p>
+	<img class="myImg" src="img/socit.jpg" alt="Seminar about game genesis" style="width:100%;max-width:500px;display: block;margin-left: auto;margin-right: auto;">
+</p>
+<p><center>This is the seminar about Game Genesis. The speakers encouraged students who are taking courses related to games, to join this competition.</center></p>
+<pre>
+	
+</pre>
+	
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close" onclick="document.getElementById('myModal').style.display='none'">&times;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div>
+</p>
+<script type="text/javascript">
+
+// Get the modal
+var modal = document.getElementById('myModal');
+
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var img = $('.myImg');
+var modalImg = $("#img01");
+var captionText = document.getElementById("caption");
+$('.myImg').click(function(){
+    modal.style.display = "block";
+    var newSrc = this.src;
+    modalImg.attr('src', newSrc);
+    captionText.innerHTML = this.alt;
+});
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</script>
 	
 </div>
 </body>
