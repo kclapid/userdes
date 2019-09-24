@@ -38,7 +38,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
+				<a href="learnings.php" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 	
@@ -56,11 +56,13 @@
 </div>	
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- Trigger the Modal -->
+<p><center>These are the intial log in and registration page of our project called E-GOBRICK</center></p>
 <img class="myImg" src="img/A5-1.png" alt="Log In/Sign Up page" style="width:100%;max-width:300px">
 <img class="myImg" src="img/A5-2.png" alt="Choose personality" style="width:100%;max-width:300px">
 <img class="myImg" src="img/A5-3.png" alt="Registration page for Donor" style="width:100%;max-width:300px">
 <img class="myImg" src="img/A5-4.png" alt="Registration page for Organization" style="width:100%;max-width:300px">
-
+<p>
+<pre>           Log In/Sign Up Page                    Choose personality                Registration page for Donor          Registration page for Organization</pre></p>
 <!-- The Modal -->
 <div id="myModal" class="modal">
 
