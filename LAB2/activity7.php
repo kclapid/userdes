@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>K•Y•L•A | Activity 6</title>
+	<title>K•Y•L•A | Activity 7</title>
 	<link rel="icon" type="image/ico" href="img/black-rose1.jpg">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
@@ -38,7 +38,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
+				<a href="learnings.php" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 	
@@ -56,6 +56,7 @@
 </div>	
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- Trigger the Modal -->
+<p><center>For this activity, Miss Jen tasked us to fix what we think is wrong with the invitation letter below by pointing out the mistakes. We also improved it by creating a new invitation card. The passage is all about Robert and Alexandra’s after-dinner invitation.</center></p>
 <img class="myImg" src="img/A7-2.png" alt="Original letter" style="width:100%;max-width:500px;display: block;margin-left: auto;margin-right: auto;">
 
 <!-- The Modal -->
@@ -72,23 +73,21 @@
 </div>
 </p>
 <p>
-	1.)	The first sentence is good, but for me the second sentence is not necessary. You can just deliver the message by 
+	The first sentence is good, but for me the second sentence is not necessary. You can just deliver the message by 
 	putting pictures of wine and nibbles in the invitation. There should be a break between “when” and the first 
 	sentence. The first letter in “when” and “Where” is inconsistent, and the first letters should be capitalized. The 
 	first letter of the month should also be capitalized as well as the location. If I would create my own version of 
 	this invitation, I would not include the third sentence. 
 </p>
 <p>
-2.)	The passage is all about Robert and Alexandra’s after-dinner invitation. 
-</p>
-<p>	
-3.)
-</p>
-<p>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
 <!-- Trigger the Modal -->
+<hr>
+<p><center>My own version of the invitation card</center></p>
 <img class="myImg" src="img/A7-1.png" alt="After-dinner party invitation card" style="width:100%;max-width:500px;display: block;margin-left: auto;margin-right: auto;">
-
+<pre>
+	
+</pre>
 <!-- The Modal -->
 <div id="myModal" class="modal">
 
