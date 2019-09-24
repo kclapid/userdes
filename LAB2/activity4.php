@@ -38,7 +38,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
+				<a href="learnings.php" class="btn btn-outline-dark" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 	
@@ -87,14 +87,16 @@ pages that advocates about it. If we create an app that is about EcoBrick, we al
 
 
 <p>
-Summary:</p>
-<p>Problems:</p>
+<h3>Summary:</h3></p>
+
+<p><h5>Problems:</h5></p>
 <p>-Increasing environmental problem regarding improper plastic waste disposal</p>
 <p>-Most of the plastics end up in the ocean, causing harm to marine animals</p>
 <p>-Plastics also causes floods because of incorrect disposal of trashes that got stuck in the drainage system</p>
 <p>-Most of the people doesn't know how to make EcoBrick in the right way</p>
 <p>-Some people doesn't know where to donate their EcoBricks</p>
-<p>Solution:</p>
+
+<p><h5>Solution:</h5></p>
 <p>-Make an application that shows video and pictures on how to make an EcoBrick</p>
 <p>-It shows nearby places where they can donate their EcoBricks</p>
 <p>-Donors will be informed where their donations are used</p>
@@ -102,8 +104,8 @@ Summary:</p>
 
 
 <p>References:</p>
-<p><a href="https://www.ukvending.co.uk/info/gobrik"></a></p>
-<p><a href="https://www.thebalancesmb.com/how-long-does-it-take-garbage-to-decompose-2878033"><a/></p>
+<p><a href="https://www.ukvending.co.uk/info/gobrik" target="_blank">https://www.ukvending.co.uk/info/gobrik</a></p>
+<p><a href="https://www.thebalancesmb.com/how-long-does-it-take-garbage-to-decompose-2878033" target="_blank">https://www.thebalancesmb.com/how-long-does-it-take-garbage-to-decompose-2878033</a></p>
 
 	
 </div>
