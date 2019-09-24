@@ -29,6 +29,15 @@
 			<li class="nav-item">
 				<a href="LAB1\index.php" class="btn btn-outline-dark" class="btn btn-outline-dark">About</a>
 			</li>
+			<li class="nav-item">
+				<a href="reflections.php" class="btn btn-outline-dark" class="btn btn-outline-dark">Reflections</a>
+			</li>
+			<li class="nav-item">
+				<a href="activities.php" class="btn btn-outline-dark" class="btn btn-outline-dark">Activities</a>
+			</li>
+			<li class="nav-item">
+				<a href="learnings.php" class="btn btn-outline-dark" class="btn btn-outline-dark">Learnings</a>
+			</li>
 		</ul>
 	
 </div>
@@ -80,7 +89,7 @@
 </figure>
 
 <!--Activities-->
-<button class="activities" data-toggle="collapse" data-target="#activities" id="nav1">Click to see my activities</button>
+<!--<button class="activities" data-toggle="collapse" data-target="#activities" id="nav1">Click to see my activities</button>
 <div id="activities" class="collapse">
 <div class="container-fluid padding">
 <div class="row text-center">
@@ -93,13 +102,14 @@
 	</div>
 </div>		
 </div>	
-</div>
+</div>-->
 
 <!--Meet the team-->
 <div class="container-fluid padding">
 <div class="row welcome text-center">
 	<div class="col-12">
-		<h1 class="display-4">Meet our Team</h1>
+		<h1 class="display-4">Meet our Team in</h1> 
+			<h1 class="display-4">Project: E-GOBRICK</h1>
 	</div>
 	<hr>
 </div>	
