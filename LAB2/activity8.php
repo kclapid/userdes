@@ -38,7 +38,7 @@
 				<a href="activities.php" class="btn btn-outline-dark">Activities</a>
 			</li>
 			<li class="nav-item">
-				<a href="quiz.php" class="btn btn-outline-dark">Quiz</a>
+				<a href="learnings.php" class="btn btn-outline-dark">Learnings</a>
 			</li>
 		</ul>
 	
@@ -77,14 +77,23 @@ are also inspired from magazines and blogsites. This activity took me a day to a
 <img class="myImg" src="img/4a2.PNG" alt="4x4 layout 2" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a3.PNG" alt="4x4 layout 3" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a4.PNG" alt="4x4 layout 4" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+4x4 layout 1				4x4 layout 2				4x4 layout 3				4x4 layout 4
+</pre>
 <img class="myImg" src="img/4a5.PNG" alt="4x4 layout 5" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a6.PNG" alt="4x4 layout 6" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a7.PNG" alt="4x4 layout 7" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a8.PNG" alt="4x4 layout 8" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+4x4 layout 5				4x4 layout 6				4x4 layout 7				4x4 layout 8
+</pre>
 <img class="myImg" src="img/4a9.PNG" alt="4x4 layout 9" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a10.PNG" alt="4x4 layout 10" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a11.PNG" alt="4x4 layout 11" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4a12.PNG" alt="4x4 layout 12" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+4x4 layout 9				4x4 layout 10				4x4 layout 11				4x4 layout 12
+</pre>
 </center>
 </p>
 <!-- 4x4 pictures -->
@@ -96,14 +105,23 @@ are also inspired from magazines and blogsites. This activity took me a day to a
 <img class="myImg" src="img/4b2.PNG" alt="4x4 picture 2" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b3.PNG" alt="4x4 picture 3" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b4.PNG" alt="4x4 picture 4" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+4x4 picture 1				4x4 picture 2				4x4 picture 3				4x4 picture 4
+</pre>
 <img class="myImg" src="img/4b5.PNG" alt="4x4 picture 5" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b6.PNG" alt="4x4 picture 6" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b7.PNG" alt="4x4 picture 7" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b8.PNG" alt="4x4 picture 8" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+4x4 picture 5				4x4 picture 6				4x4 picture 7				4x4 picture 8
+</pre>
 <img class="myImg" src="img/4b9.PNG" alt="4x4 picture 9" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b10.PNG" alt="4x4 picture 10" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b11.PNG" alt="4x4 picture 11" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/4b12.PNG" alt="4x4 picture 12" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+4x4 picture 9				4x4 picture 10				4x4 picture 11				4x4 picture 12
+</pre>
 </center>
 </p>
 
@@ -117,14 +135,23 @@ are also inspired from magazines and blogsites. This activity took me a day to a
 <img class="myImg" src="img/3a2.PNG" alt="3x3 layout 2" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a3.PNG" alt="3x3 layout 3" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a4.PNG" alt="3x3 layout 4" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+3x3 layout 1				3x3 layout 2				3x3 layout 3				3x3 layout 4
+</pre>
 <img class="myImg" src="img/3a5.PNG" alt="3x3 layout 5" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a6.PNG" alt="3x3 layout 6" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a7.PNG" alt="3x3 layout 7" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a8.PNG" alt="3x3 layout 8" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+3x3 layout 5				3x3 layout 6				3x3 layout 7				3x3 layout 8
+</pre>
 <img class="myImg" src="img/3a9.PNG" alt="3x3 layout 9" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a10.PNG" alt="3x3 layout 10" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a11.PNG" alt="3x3 layout 11" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3a12.PNG" alt="3x3 layout 12" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+3x3 layout 9				3x3 layout 10				3x3 layout 11				3x3 layout 12
+</pre>
 </center>
 </p>
 <hr>
@@ -136,14 +163,23 @@ are also inspired from magazines and blogsites. This activity took me a day to a
 <img class="myImg" src="img/3b2.PNG" alt="3x3 picture 2" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b3.PNG" alt="3x3 picture 3" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b4.PNG" alt="3x3 picture 4" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+3x3 picture 1				3x3 picture 2				3x3 picture 3				3x3 picture 4
+</pre>
 <img class="myImg" src="img/3b5.PNG" alt="3x3 picture 5" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b6.PNG" alt="3x3 picture 6" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b7.PNG" alt="3x3 picture 7" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b8.PNG" alt="3x3 picture 8" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+3x3 picture 5				3x3 picture 6				3x3 picture 7				3x3 picture 8
+</pre>
 <img class="myImg" src="img/3b9.PNG" alt="3x3 picture 9" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b10.PNG" alt="3x3 picture 10" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b11.PNG" alt="3x3 picture 11" style="width:100%;max-width:300px;padding-bottom: 10px">
 <img class="myImg" src="img/3b12.PNG" alt="3x3 picture 12" style="width:100%;max-width:300px;padding-bottom: 10px">
+<pre>
+3x3 picture 9				3x3 picture 10				3x3 picture 11				3x3 picture 12
+</pre>
 </center>
 </p>
 <!-- The Modal -->
