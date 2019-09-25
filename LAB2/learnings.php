@@ -83,7 +83,7 @@
 <p>Course completed: August 31, 2019</p>
 <hr>
 <img class="myImg" src="img/cert4.PNG" alt="Principle for UX Design" style="width:100%;max-width:700px;padding-bottom: 10px">
-<p><b>Principle for UX Design<b/></p>
+<p><b>Principle for UX Design</b></p>
 <p>Course completed: September 22, 2019</p>
 </center>
 </p>
