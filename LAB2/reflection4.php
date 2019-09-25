@@ -78,6 +78,26 @@ and eye movement speed, but it also tested our patience. After accomplishing the
 is for a website. The arrangement of the buttons, textbox, hyperlinks, color used, and instructions really matter. It is 
 an achievement if the user utilized the website smoothly and without struggle. </p>
 
+<div class="row">
+<div class="textbox">
+	<div class="column">
+	<img src="img/Q1.1.png" class="img-thumbnail img-fluid" alt="Quiz 1.1">
+	<div class="caption">
+		<h1>1st try</h1>
+		<p>It took me 4 minutes and 9 seconds to finish</p>
+	</div>
+</div>
+</div>
+<div class="textbox">
+	<div class="column">
+	<img src="img/Q1.2.png" class="img-thumbnail img-fluid" alt="Quiz 1.2">
+	<div class="caption">
+		<h1>2nd try</h1>
+		<p>Yey 2 minutes and 35 seconds!</p>
+	</div>
+</div>
+</div>
+</div>
 	
 </div>
 </body>
