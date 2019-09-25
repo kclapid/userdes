@@ -58,12 +58,15 @@
 <!-- Trigger the Modal -->
 <p><center>These are the intial log in and registration page of our project called E-GOBRICK</center></p>
 <img class="myImg" src="img/A5-1.png" alt="Log In/Sign Up page" style="width:100%;max-width:300px">
-<img class="myImg" src="img/A5-2.png" alt="Choose personality" style="width:100%;max-width:300px">
+<img class="myImg" src="img/A5-2.png" alt="Type of user" style="width:100%;max-width:300px">
 <img class="myImg" src="img/A5-3.png" alt="Registration page for Donor" style="width:100%;max-width:300px">
 <img class="myImg" src="img/A5-4.png" alt="Registration page for Organization" style="width:100%;max-width:300px">
 <p>
-<pre>           Log In/Sign Up Page                    Choose personality                Registration page for Donor          Registration page for Organization</pre></p>
-<!-- The Modal -->
+<pre>           Log In/Sign Up Page                    Type of user                Registration page for Donor          Registration page for Organization</pre></p>
+<p><center>
+For the sign up page, we asked for the type of user. One is donor, which is if the user doesn't belong to any organization and only wants to donate ecobricks. As per organization, they are the one who receives the donated ecobricks. We made the up with a touch of nature since ecobrick is all about saving the environment from trashes. It is also pleasing in the eyes since blue is a relaxing color mixed with green which is a symbol of nature.
+</center><p>
+	<!-- The Modal -->
 <div id="myModal" class="modal">
 
   <!-- The Close Button -->
