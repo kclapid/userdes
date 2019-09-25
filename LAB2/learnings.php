@@ -61,33 +61,29 @@
 <!-- 4x4 layout grid -->
 <center>
 <img class="myImg" src="img/cert2.PNG" alt="Programming Foundations: Data Structures(2014)" style="width:100%;max-width:700px;padding-bottom: 10px">
-<p>Linkedin LEARNING</p>
-<p>Programming Foundations: Data Structures(2014)</p>
+<p><b>Programming Foundations: Data Structures(2014)</b></p>
 <p>Course completed: March 5, 2019</p>
 <hr>
 <img class="myImg" src="img/cert3.PNG" alt="Learning Python" style="width:100%;max-width:700px;padding-bottom: 10px">
-<p>Linkedin LEARNING</p>
-<p>Learning Python</p>
+<p><b>Learning Python</b></p>
 <p>Course completed: March 5, 2019</p>
 <hr>
 <img class="myImg" src="img/cert1.PNG" alt="Programming Foundations: Algorithms" style="width:100%;max-width:700px;padding-bottom: 10px">
-<p>Linkedin LEARNING</p>
-<p>Programming Foundations: Algorithms</p>
+
+<p><b>Programming Foundations: Algorithms</b></p>
 <p>Course completed: March 10, 2019</p>
 <hr>
 <img class="myImg" src="img/cert5.PNG" alt="Sketch for UX Design" style="width:100%;max-width:700px;padding-bottom: 10px">
-<p>Linkedin LEARNING</p>
-<p>Sketch for UX Design</p>
+
+<p><b>Sketch for UX Design</b></p>
 <p>Course completed: August 31, 2019</p>
 <hr>
 <img class="myImg" src="img/cert6.PNG" alt="UX Foundations: Interaction Design" style="width:100%;max-width:700px;padding-bottom: 10px">
-<p>Linkedin LEARNING</p>
-<p>UX Foundations: Interaction Design</p>
+<p><b>UX Foundations: Interaction Design</b></p>
 <p>Course completed: August 31, 2019</p>
 <hr>
 <img class="myImg" src="img/cert4.PNG" alt="Principle for UX Design" style="width:100%;max-width:700px;padding-bottom: 10px">
-<p>Linkedin LEARNING</p>
-<p>Principle for UX Design</p>
+<p><b>Principle for UX Design<b/></p>
 <p>Course completed: September 22, 2019</p>
 </center>
 </p>
